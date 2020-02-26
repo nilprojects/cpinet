@@ -1,0 +1,2 @@
+.st-clr:after {content: ".";display: block;clear: both;visibility: hidden;line-height: 0;height: 0;}
+* html .st-clr:after {height: 1%;overflow: visible;}
